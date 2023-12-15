@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    
+    font-family: 'Roboto', sans-serif;
+    height: 100vw;
+}
+
+.heder-logo{
+   /* Group 109 */
+
+
+width:174px;
+height: 88px;
+margin:34px 0 0 174px ;
+
+}
+.mackbook-section{
+   
+   margin-top: 100px;
+   padding: 100px;
+}
+.nav-side{
+    margin-right: 100px;
+    margin-top: 0px;
+}
+
+
+.nav-spess-function{
+width: 100px;
+opacity: 1.00;
+height: 18px;
+font-family: "Poppins";
+font-size: 17px;
+color: #707070;
+}
+.mack-section{
+  font: 2em sans-serif;
+    
+}
+.pro-section{
+    
+    font-size:medium;
+    
+    
+}
+.button-color{
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-weight: 700;
+    border-radius: 5px;
+    
+}
+
+}
+.row{
+   
+    height: 500px;
+}
